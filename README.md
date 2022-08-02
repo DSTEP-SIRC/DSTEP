@@ -1,4 +1,4 @@
-# DSTEP
+# D-STEP
 Dynamic Spatio-TEmpotal Pruning 
 
 ## Reproducing the results:
