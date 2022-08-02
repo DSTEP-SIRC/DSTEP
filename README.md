@@ -3,6 +3,12 @@ Dynamic Spatio-TEmpotal Pruning
 
 ## Reproducing the results:
 
+### Dependencies
+```
+pip install -r requierments.txt
+```
+
+
 ### Training
 run main_dynstc.py as the following (set hyperparameters if needed):
 ```
