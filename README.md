@@ -23,3 +23,9 @@ There are 4 checkpoints:
   - Another ckpt, from table 3.
 
 To use them, run the same command as training and add "test from **Path_to_ckpt**"
+
+We suggest more working points for ResNet50 on STH-V2:
+57.1/20.0G
+56.9/19.0G
+56.6/18.0G
+56.4/17.0G
